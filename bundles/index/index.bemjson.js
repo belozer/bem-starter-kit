@@ -9,8 +9,6 @@ module.exports = [{
         { elem : 'css', url : 'index.min.css' }
     ],
 
-    user : { block : 'input', mods : { size : 'xl' } },
-
     content : [
         {
             block : 'keep-calm',
