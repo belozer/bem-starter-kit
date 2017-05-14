@@ -1,0 +1,10 @@
+block(greeting) {
+    background: #f7f7f7;
+    padding: 20px;
+
+    text-align: center;
+
+    elem(form-input) {
+        margin-right: 25px;
+    }
+}
